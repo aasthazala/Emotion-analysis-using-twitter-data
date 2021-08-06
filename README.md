@@ -26,4 +26,5 @@ in previous work
 
 
 Note: You have use your Twitter credentials in the file called twitter_credentials.py
+-------------------------------------------------------------------------------------
 For this you have to apply for Twitter Developers account.
