@@ -25,6 +25,3 @@ disgust, and surprise. Moreover, some methods will be used which is proposed
 in previous work
 
 
-Project By:
-Name:Aasthaba Zala
-Student ID:110058893
