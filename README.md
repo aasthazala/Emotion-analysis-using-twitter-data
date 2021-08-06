@@ -1,4 +1,4 @@
-# Emotion-analysis-using-twitter-data
+# Sentimental-analysis-using-twitter-data
 
 
 Human emotion detection plays a vital role in the interpersonal relationships. 
