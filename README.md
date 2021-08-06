@@ -27,8 +27,13 @@ in previous work
 ------------------------------------------------------------------------------------
 Details of the files
 ------------------------------------------------------------------------------------
-1) twitter_credentials: needed to get tweets.
-2)  
+1) twitter_credentials.py: needed to get tweets.
+2) analy.py: For analysis
+3) Cred.py: needed to connect twitter
+4) sentiment.py: For sentimental analysis
+5) Live.py: needed to fetch live tweets
+6) tweets.txt: text file for searching keywords
+7) emotions.txt: classifications of emotions.  
 
 
 Note: You have use your Twitter credentials in the file called twitter_credentials.py
