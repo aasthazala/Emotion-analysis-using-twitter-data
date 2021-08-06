@@ -24,6 +24,12 @@ This project will use Ekman’s emotional scale: fear, anger, joy, sadness,
 disgust, and surprise. Moreover, some methods will be used which is proposed 
 in previous work
 
+------------------------------------------------------------------------------------
+Details of the files
+------------------------------------------------------------------------------------
+1) twitter_credentials: needed to get tweets.
+2)  
+
 
 Note: You have use your Twitter credentials in the file called twitter_credentials.py
 -------------------------------------------------------------------------------------
